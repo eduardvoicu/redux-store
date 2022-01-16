@@ -2,11 +2,11 @@
 
 ## Deployed Link
 
-
+https://dry-plains-04188.herokuapp.com/
 
 ## GitHub Repository
 
-https://github.com/eduardvoicu/
+https://github.com/eduardvoicu/redux-store
 
 ## Directory
 1. [License](#license)
